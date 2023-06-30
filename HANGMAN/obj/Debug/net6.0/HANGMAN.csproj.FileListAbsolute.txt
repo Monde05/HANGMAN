@@ -1,0 +1,15 @@
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\bin\Debug\net6.0\HANGMAN.exe
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\bin\Debug\net6.0\HANGMAN.deps.json
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\bin\Debug\net6.0\HANGMAN.runtimeconfig.json
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\bin\Debug\net6.0\HANGMAN.dll
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\bin\Debug\net6.0\HANGMAN.pdb
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\obj\Debug\net6.0\HANGMAN.csproj.AssemblyReference.cache
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\obj\Debug\net6.0\HANGMAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\obj\Debug\net6.0\HANGMAN.AssemblyInfoInputs.cache
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\obj\Debug\net6.0\HANGMAN.AssemblyInfo.cs
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\obj\Debug\net6.0\HANGMAN.csproj.CoreCompileInputs.cache
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\obj\Debug\net6.0\HANGMAN.dll
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\obj\Debug\net6.0\refint\HANGMAN.dll
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\obj\Debug\net6.0\HANGMAN.pdb
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\obj\Debug\net6.0\HANGMAN.genruntimeconfig.cache
+C:\Users\mqedl\source\repos\HANGMAN\HANGMAN\obj\Debug\net6.0\ref\HANGMAN.dll
